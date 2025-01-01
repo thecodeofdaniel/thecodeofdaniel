@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm [Daniel Rubio](https://www.linkedin.com/in/rubiodaaniel) :)
 
-<!--
-**thecodeofdaniel/thecodeofdaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img alt="" src="./dino.gif" height=150 />
 
-Here are some ideas to get you started:
+[✍️ Check out my blog!](https://thecodeofdaniel.github.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[🌟 Check out my portfolio!](https://danielrubio.vercel.app)
+
+## Some of my skills
+
+🧑‍💻 IT Related
+
+[![IT Related](https://skillicons.dev/icons?i=linux,ubuntu,windows,bash,python,azure,aws,docker,ansible)](https://skillicons.dev)
+
+💾 Databases
+
+[![Databases](https://skillicons.dev/icons?i=sqlite,mysql,postgresql,mongodb)](https://skillicons.dev)
+
+🌐 Web Dev
+
+[![WebDev](https://skillicons.dev/icons?i=html,css,tailwind,ts,js,react,next,firebase,supabase)](https://skillicons.dev)
