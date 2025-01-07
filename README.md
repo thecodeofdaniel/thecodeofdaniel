@@ -6,6 +6,8 @@
 
 [🌟 Check out my portfolio!](https://danielrubio.vercel.app)
 
+[🖥️ Check out some of my IT projects!](https://thecodeofdaniel.github.io/projects)
+
 ## Some of my skills
 
 🧑‍💻 IT Related
