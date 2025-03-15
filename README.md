@@ -1,4 +1,4 @@
-# Hi, I'm [Daniel Rubio](https://www.linkedin.com/in/rubiodaaniel) :)
+# Hi, I'm Daniel Rubio :)
 
 <img alt="" src="./dino.gif" height=150 />
 
