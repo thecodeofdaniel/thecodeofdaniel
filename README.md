@@ -2,12 +2,6 @@
 
 <img alt="" src="./dino.gif" height=150 />
 
-[✍️ Check out my blog!](https://thecodeofdaniel.github.io)
-
-[🌟 Check out my portfolio!](https://danielrubio.vercel.app)
-
-[🖥️ Check out some of my IT projects!](https://thecodeofdaniel.github.io/projects)
-
 ## Some of my skills
 
 🧑‍💻 IT Related
