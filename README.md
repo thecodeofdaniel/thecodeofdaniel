@@ -1,7 +1,8 @@
-# Hi, I'm Daniel Rubio :)
+Hi, my name is Daniel :)
 
 <img alt="" src="./dino.gif" height=150 />
 
+<!---
 ## Some of my skills
 
 🧑‍💻 IT Related
@@ -15,3 +16,5 @@
 🌐 Web Dev
 
 [![WebDev](https://skillicons.dev/icons?i=html,css,tailwind,ts,js,react,next,firebase,supabase)](https://skillicons.dev)
+
+-->
